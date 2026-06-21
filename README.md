@@ -1,6 +1,8 @@
 # Polyglossy Notebooks Community
 
-After the [DEPRECATION ANNOUNCEMENT: Polyglot Notebooks & .NET Interactive](https://github.com/dotnet/interactive/issues/4163) a small group of people has formed the **Polyglossy Notebooks Community** and forked the Polyglot Notebooks & .NET Interactive project, and now this new community is slowly working towards releasing a drop-in-replacement VS Code extension with patches to all the dependencies. 
+After the [DEPRECATION ANNOUNCEMENT: Polyglot Notebooks & .NET Interactive](https://github.com/dotnet/interactive/issues/4163), a small group of people have formed the **Polyglossy Notebooks Community** and forked the Polyglot Notebooks & .NET Interactive project.
+
+The community is working towards releasing a drop-in replacement VS Code extension with patched dependencies.
 
 If you are interested in learning more:
 
